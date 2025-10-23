@@ -1,0 +1,59 @@
+// Time & Table
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="5px" cellpadding="20px" cellspacing="5px">
+        <caption>Java Full Stack Developer</caption>
+        <tr>
+            <th>Day</th>
+            <th>9 - 10 AM</th>
+            <th>10 - 11 AM</th>
+            <th>11 - 12 AM</th>
+            <th>1 - 2 AM</th>
+            <th>2 - 4 AM</th>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td>MySQL</td>
+            <td>Java</td>
+            <td>SoftSkill</td>
+            <td rowspan="5">Lunch Break</td>
+            <td>Mock</td>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td colspan="2"><center>Project Class</center></td>
+            <td>Programming</td>
+            <td>CSS</td>
+        </tr>
+        <tr>
+            <td>Wednesday</td>
+            <td>HTML</td>
+            <td>Python</td>
+            <td>DSA</td>
+            <td rowspan="2">Front End Project</td>
+        </tr>
+        <tr>
+            <td>Thursday</td>
+            <td>Java</td>
+            <td colspan="2"><center>React Js</center></td>
+        </tr>
+        <tr>
+            <td>Friday</td>
+            <td>Programming</td>
+            <td>Java</td>
+            <td>DSA</td>
+            <td>JavaScript</td>
+        </tr>
+        <tr>
+            <td colspan="6"><center>Note: Friday 2-4 PM is OPtional Slot.</center></td>
+        </tr>
+    </table>
+</body>
+</html>
