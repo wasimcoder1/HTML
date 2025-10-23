@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <h1> &#x1F5E3; My Life & Skill Portfolio</h1>
+     <h2>Major Life Event</h2>
+     <ol >
+        <li>Born in 2000</li>
+        <li>Graduted in 2025</li>
+        <li>Will Joined Jon in 2025</li>
+     </ol>
+     <dl>
+        <dt>HTML</dt>
+        <dd>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam reiciendis natus accusamus corrupti, obcaecati illum expedita aut nemo. Quisquam id repudiandae eveniet excepturi dolorem nulla, illo obcaecati quas distinctio delectus.</dd>
+     </dl>
+     <ol>
+        <li>Shrot-Term Goals
+            <ul>
+                <li>Master React</li>
+                <li>Get Aws Certifict</li>
+            </ul>
+        </li>
+        <li>Long-Term Goals
+            <ul type="square">
+                <li>Build a Saas product</li>
+                <li>Start a tech YouTube channel</li>
+            </ul>
+        </li>
+     </ol>
+</body>
+</html>
