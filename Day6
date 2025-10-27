@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Movie</title>
+    <link rel="icon" href="logo1.png" />
+</head>
+
+<body>
+    <h1>Lorem ipsum dolor sit amet, consectetur adipisicing &#x2122 </h1>
+    <h2>Lorem ipsum dolor sit.</h2>
+    <h3>song 1 &#x1F60D;</h3>
+    Lorem ipsum <mark>dolor</mark> sit <del>amet</del> consectetur.
+    <img src="/8.jpg " alt="girl image" width="200" height="200">
+    <video src="/Sajni Lyrical Video Arijit Singh Ram Sampath Laapataa Ladies Aamir Khan Productions1080p.mp4"
+        height="200" width="400" controls></video>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium ratione incidunt laborum modi. Dolorem sequi
+        eaque quis, provident odit rerum quo debitis amet fugit sed recusandae consequuntur, cumque minus! Eum, harum!
+        Quas cupiditate molestias nulla ducimus debitis iste porro. Iure, quisquam? Repellat optio architecto sit est
+        tempore consequatur. Earum iste enim placeat provident praesentium, obcaecati et libero alias officia excepturi
+        aliquid odit laudantium dolor fugit quod. Mollitia enim alias, ab iste, optio accusantium asperiores culpa
+        possimus quis doloribus cupiditate odio?</p>
+</body>
+
+</html>
